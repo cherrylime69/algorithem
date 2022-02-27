@@ -1,5 +1,8 @@
 package `20220226`
 
+//이것이 취업을 위한 코딩테스트다
+// p.118 게임개발
+
 fun main() {
     val map = readLine()!!.split(" ")
     val loc = readLine()!!.split(" ").map { it -> it.toInt() }

@@ -2,6 +2,7 @@ package `20220227`
 
 // 이것이 취업을 위한 코딩테스트다
 // p.149 음료수 얼려 먹기
+// answer : https://github.com/ndb796/python-for-coding-test/blob/master/5/10.java
 
 fun main() {
     val (n, m) = readLine()!!.split(" ").map { it.toInt() }

@@ -34,3 +34,8 @@ fun binary(list: MutableList<Int>, target: Int, start: Int, end: Int): String {
     }
     return "no"
 }
+
+/*
+답 해설: 기본적인 이진 탐색 알고리즘을 활용하여 풀 수 있다
+다른 방법으로는 계수 정렬과 set 콜렉션을 활용하여서도 풀 수 있다
+ */

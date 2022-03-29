@@ -6,7 +6,5 @@
 *.iml
 out
 gen
-.idea\
-build\
-.gradle\
-build\
+build
+.gradle
